@@ -1,0 +1,6 @@
+{
+  "name": "GameControl Master",
+  "description": "Interactive video game controls guide, trainer & visualizer across PC, Xbox, PlayStation, and Nintendo Switch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
